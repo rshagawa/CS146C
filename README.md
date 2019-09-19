@@ -1,3 +1,1 @@
-# this is our first cs 146 file
-
-## Okay this is Epic
+# This is our first CS 146 C Repo
